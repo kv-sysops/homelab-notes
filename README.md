@@ -7,3 +7,4 @@ Random notes from my homelab. Nothing fancy.
 - Too many cables
 
 Pull requests welcome, but I probably won't merge them.
+Also lurking on Reddit as u/kv-sysops
